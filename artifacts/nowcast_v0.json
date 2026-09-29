@@ -1,0 +1,19 @@
+{
+  "model": "NowcastNet v0 (ConvLSTM + cross-attention fusion + 3 heads)",
+  "params": 271660,
+  "epochs": 15,
+  "best_val_pr_auc_severe": 0.20471100412141402,
+  "data": "synthetic (drishti_nowcast.synthetic)",
+  "seed": 0,
+  "heads": [
+    "thunderstorm",
+    "cloudburst",
+    "flash_flood"
+  ],
+  "leads_h": [
+    2,
+    3,
+    4,
+    6
+  ]
+}

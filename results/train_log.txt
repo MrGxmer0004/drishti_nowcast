@@ -1,0 +1,17 @@
+params: 271,660  train: 2400  val: 400
+epoch  1  loss 0.04826  val PR-AUC (cb+ff) 0.003  68s
+epoch  2  loss 0.01985  val PR-AUC (cb+ff) 0.021  66s
+epoch  3  loss 0.01830  val PR-AUC (cb+ff) 0.039  67s
+epoch  4  loss 0.01703  val PR-AUC (cb+ff) 0.067  65s
+epoch  5  loss 0.01616  val PR-AUC (cb+ff) 0.088  65s
+epoch  6  loss 0.01531  val PR-AUC (cb+ff) 0.083  67s
+epoch  7  loss 0.01491  val PR-AUC (cb+ff) 0.092  65s
+epoch  8  loss 0.01436  val PR-AUC (cb+ff) 0.117  66s
+epoch  9  loss 0.01387  val PR-AUC (cb+ff) 0.150  66s
+epoch 10  loss 0.01338  val PR-AUC (cb+ff) 0.174  67s
+epoch 11  loss 0.01301  val PR-AUC (cb+ff) 0.183  66s
+epoch 12  loss 0.01263  val PR-AUC (cb+ff) 0.198  67s
+epoch 13  loss 0.01224  val PR-AUC (cb+ff) 0.201  67s
+epoch 14  loss 0.01207  val PR-AUC (cb+ff) 0.205  67s
+epoch 15  loss 0.01194  val PR-AUC (cb+ff) 0.205  64s
+saved artifacts/nowcast_v0.pt  best val PR-AUC (cb+ff) 0.205

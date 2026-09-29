@@ -1,0 +1,34 @@
+{
+  "head": "cloudburst",
+  "lead_h": 3,
+  "test_sample": 138,
+  "cell": [
+    22,
+    11
+  ],
+  "probability": 0.8083065152168274,
+  "observed": true,
+  "family_shares": {
+    "lift (convergence, shear)": 0.56,
+    "terrain (DEM)": 0.209,
+    "observation (CTT, QPE)": 0.096,
+    "instability (CAPE/CIN)": 0.076,
+    "moisture (IWV)": 0.059
+  },
+  "per_channel": {
+    "iwv": 0.25671520829200745,
+    "iwv_tendency_90min": 0.037046000361442566,
+    "ctt": -0.047134965658187866,
+    "ctt_drop_rate": 0.023221435025334358,
+    "qpe_log": 0.41167810559272766,
+    "cape": 0.359869122505188,
+    "cin": 0.02234066091477871,
+    "convergence_850": 1.4982563257217407,
+    "bulk_shear": 1.152528166770935,
+    "steer_u": 0.015790248289704323,
+    "steer_v": -0.14304865896701813,
+    "elevation": 0.011604998260736465,
+    "slope": 0.3373326063156128,
+    "log_flowacc": 0.69632887840271
+  }
+}
